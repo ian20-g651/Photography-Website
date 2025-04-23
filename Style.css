@@ -1,0 +1,89 @@
+/* Reset & base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Montserrat', sans-serif;
+    background: #fff0f5;
+    color: #2c003e;
+    line-height: 1.6;
+  }
+  
+  /* Hero */
+  .hero {
+    background: linear-gradient(to right, #ffb6c1, #ff69b4);
+    color: white;
+    text-align: center;
+    padding: 4rem 1rem;
+    font-family: 'Playfair Display', serif;
+  }
+  .hero h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px #e75480;
+  }
+  .hero p {
+    font-size: 1.3rem;
+  }
+  
+  /* Latest Looks */
+  .looks {
+    padding: 3rem 1rem;
+    text-align: center;
+  }
+  .looks h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #c71585;
+  }
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    padding: 0 2rem;
+    justify-content: center;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1 1 250px;
+    max-width: 300px;
+    border-radius: 16px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }  
+  .card img {
+    width: 100%;
+    aspect-ratio: 2 / 3; /* portrait vibe */
+    object-fit: cover;
+    border-bottom: 4px solid #ffc0cb;
+  }
+  .card p {
+    padding: 1rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #c71585;
+    background: #ffc0cb;
+    margin-top: auto;
+  }  
+  .card:hover {
+    transform: translateY(-10px) scale(1.03);
+    box-shadow: 0 8px 30px rgba(255, 20, 147, 0.3);
+  }
+  .card:hover img {
+    transform: scale(1.05);
+  }  
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.9rem;
+    background-color: #fff5f8;
+    color: #8b008b;
+  }
+  
