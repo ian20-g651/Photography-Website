@@ -1,4 +1,6 @@
 Femme Fashion
+
+
 Welcome to Femme Fashion, a dazzling portfolio site that celebrates queer, girlie, and unapologetically bold style. This project was created as part of a Moringa School assignment, and it brings together creativity, individuality, and clean code.
 
 Overview
