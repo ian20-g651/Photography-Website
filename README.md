@@ -3,6 +3,8 @@ Femme Fashion
 
 Welcome to Femme Fashion, a dazzling portfolio site that celebrates queer, girlie, and unapologetically bold style. This project was created as part of a Moringa School assignment, and it brings together creativity, individuality, and clean code.
 
+
+
 Overview
 This site showcases four iconic fashion archetypes:
 
@@ -16,6 +18,8 @@ Goth Barbie – dark, romantic, and fashion-forward
 
 Each look is represented by a card with a styled image and caption, all wrapped in a custom-designed interface.
 
+
+
 Technologies Used
 HTML5 – Structure of the site
 
@@ -23,10 +27,14 @@ CSS3 – Custom styling for every fierce element
 
 Flexbox & Responsive Design – Layout magic across screen sizes
 
+
+
 Live Site
 Check out the live version here:
 Femme Fashion on GitHub Pages
-()
+(https://github.com/ian20-g651/Photography-Website/blob/main/README.md)
+
+
 
 Features
 Custom CSS styling with themed colors and fonts
@@ -37,16 +45,14 @@ Responsive and accessible layout
 
 Queer-coded design excellence 
 
-Setup Instructions
-Clone the repo
 
-bash
-Copy
-Edit
-git clone https://github.com/your-github-username/your-repo-name.git
+
+Setup Instructions
+
+[git clone https://github.com/your-github-username/your-repo-name.git](https://github.com/ian20-g651/Photography-Website/blob/main/README.md)
 Open index.html in your browser
 
-Werk 
+
 
 Author
 Created by [Ian Gitau]
